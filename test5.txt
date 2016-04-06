@@ -1,3 +1,8 @@
 tefasd  asdfa
 sasef
+<<<<<<< Updated upstream
 standard change from master
+=======
+standard change
+Cannot complete the install because one or more required items could not be found.
+>>>>>>> Stashed changes
